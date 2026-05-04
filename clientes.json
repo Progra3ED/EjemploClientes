@@ -10,5 +10,23 @@
     "Nombre": "sdasd",
     "Apellido": "asd",
     "Edad": 0
+  },
+  {
+    "Nit": "123456789123456789123456789",
+    "Nombre": "nombre de nit",
+    "Apellido": "invalido",
+    "Edad": 0
+  },
+  {
+    "Nit": "1234567891234",
+    "Nombre": "Jose",
+    "Apellido": "Ramirez",
+    "Edad": 0
+  },
+  {
+    "Nit": "1111111111111",
+    "Nombre": "Jos3",
+    "Apellido": "as@gmail.com",
+    "Edad": 0
   }
 ]
